@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jackding96/ascii-bunny/issues"
   },
-  "homepage": "https://github.com/jackding96/ascii-bunny#readme"
+  "homepage": "https://github.com/jackding96/ascii-bunny#readme",
+  "dependencies": {
+    "sign-bunny": "^1.0.0"
+  }
 }
