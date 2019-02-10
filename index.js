@@ -8,6 +8,7 @@ input.addEventListener('keyup', inputHandler);
 function inputHandler() {
   console.log('\uffb5');
   console.log('\u00B7');
+  console.log('\u3065');
 
 //   console.log('(\\__/) ||\n(•ㅅ•) ||\n/ 　 づ');
   
