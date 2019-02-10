@@ -4,11 +4,6 @@ const output = document.getElementById('output');
 input.addEventListener('keyup', inputHandler);
 
 function inputHandler() {
-  // console.log('\uffb5');
-  // console.log('\u00B7');
-  // console.log('\u3065');
-
-  // console.log('(\\__/) ||\n(\u00B7\uffb5\u00B7) ||\n/   \u3065');
   const bunny = '(\\__/) ||\n(\u2022\u3145\u2022) ||\n/    \u3065';
   
   const padding = 3;

@@ -12,3 +12,5 @@ it be?        |
             /  　  づ  
 <pre>
 
+## Things that came up
+1. Finding a good multi-language unicode library was surprisingly difficult
