@@ -17,6 +17,5 @@
   },
   "homepage": "https://github.com/jackding96/ascii-bunny#readme",
   "dependencies": {
-    "sign-bunny": "^1.0.0"
   }
 }
