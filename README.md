@@ -19,3 +19,5 @@ it be?        |
 1. Non-monospace characters? Is this possible without using canvas?
 2. Markup editor formatting?
 3. Copy button
+4. Slider for padding: top, bottom, left, right!
+5. Max-width, max-height, max-characters settings
