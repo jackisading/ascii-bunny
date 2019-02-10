@@ -4,8 +4,7 @@ const output = document.getElementById('output');
 input.addEventListener('keyup', inputHandler);
 
 function inputHandler() {
-  const bunny = '&#12613;';
-  console.log(' づ ');
+  console.log('(\\__/) ||\n(•ㅅ•) ||\n/ 　 づ');
   
 //   `
 //   (\__/)    ||
@@ -23,5 +22,5 @@ function inputHandler() {
     return `|${leftSpacing}${line}${rightSpacing}|`;
   });
   const signHorizontalBar = '-'.repeat(signWidth+2);
-  output.value = `${signHorizontalBar}\n${centeredLines.join('\n')}\n${signHorizontalBar}\n${bunny} づ `;
+  output.value = `${signHorizontalBar}\n${centeredLines.join('\n')}\n${signHorizontalBar}\n${bunny}`;
 }
